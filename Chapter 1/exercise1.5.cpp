@@ -1,6 +1,4 @@
 //Oriyo Chakma
-//SID: 200338214
-//assignment 1
 //exercise 1.5
 
 #include <iostream>
