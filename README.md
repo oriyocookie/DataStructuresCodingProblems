@@ -1,2 +1,4 @@
 # DataStructuresCodingProblems
-Answers to some questions from http://iips.icci.edu.iq/images/exam/DataStructuresAndAlgorithmAnalysisInCpp_2014.pdf
+Answers to some coding problems from 
+Data Structures and Algorithm Analysis in C++, 4th edition
+most were done as school assignments
