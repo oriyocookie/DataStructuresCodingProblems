@@ -1,7 +1,5 @@
 //Oriyo Chakma
-//SID: 200338214
 //Exercise 2.20
-//Assignment1
 
 #include <iostream>
 #include <stdbool.h>
